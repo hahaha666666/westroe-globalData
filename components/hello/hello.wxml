@@ -1,0 +1,8 @@
+<view class="ctn">
+    <view>
+        <text> Hello Component!{{abc}}</text>
+    </view>
+    <view>
+        <text>{{bbb}}</text>
+    </view>
+</view>
